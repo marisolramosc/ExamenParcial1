@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExamenParcial</string>
+
+    <string name="Input1">Input1</string>
+    <string name="Input2">Input2</string>
+    <string name="Input3">Input3</string>
+
+    <string name="Resultado">Resultado</string>
+
+    <string name="Limpiar">Limpiar</string>
+    <string name="Agregar">Agregar</string>
+
+</resources>
